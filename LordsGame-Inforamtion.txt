@@ -1,0 +1,11 @@
+-Version 1.0.0.0{
+-5 CFG Pro
+-Rabet Karbari Good
+-Auto Update
+-Hard Security
+}
+--------------------------------------------------
+-CsRemove //NoRemove , YesRemove
+NoRemove
+-Packages Install
+1.0.0.0
