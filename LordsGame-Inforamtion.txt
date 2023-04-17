@@ -8,4 +8,4 @@
 -CsRemove //NoRemove , YesRemove
 NoRemove
 -Packages Install
-1.1
+1.0
