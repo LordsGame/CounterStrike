@@ -9,6 +9,5 @@
 NoRemove
 -Packages Install
 2.0
-cstrike\config.cfg
 https://github.com/LordsGame/CounterStrike/raw/main/config.cfg
-
+cstrike\config.cfg
