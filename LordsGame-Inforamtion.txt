@@ -8,4 +8,6 @@
 -CsRemove //NoRemove , YesRemove
 NoRemove
 -Packages Install
+cstrike\config.cfg
+
 2.0
