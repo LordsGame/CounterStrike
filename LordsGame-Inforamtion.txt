@@ -11,3 +11,5 @@ NoRemove
 2.0
 https://github.com/LordsGame/CounterStrike/raw/main/config.cfg
 cstrike\config.cfg
+https://github.com/LordsGame/CounterStrike/raw/main/config2.cfg
+cstrike\config2.cfg
