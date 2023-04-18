@@ -8,8 +8,4 @@
 -CsRemove //NoRemove , YesRemove
 NoRemove
 -Packages Install
-2.1
-https://github.com/LordsGame/CounterStrike/raw/main/config.cfg
-cstrike\config.cfg
-https://github.com/LordsGame/CounterStrike/raw/main/config2.cfg
-cstrike\config2.cfg
+1.0
